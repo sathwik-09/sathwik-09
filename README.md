@@ -75,6 +75,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-09&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/sathwik-09/sathwik-09/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ---
 
 <div align="center">
