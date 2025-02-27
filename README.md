@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E86D4&height=120&section=header"/>
 
   <h1>Hi 👋, I'm Enapothula Sathvik</h1>
-  <h3>A Passionate Frontend Developer from India</h3>
+  <h3>A Passionate Developer from India</h3>
 
   <a href="https://github.com/sathwik-09">
     <img src="https://github-profile-trophy.vercel.app/?username=sathwik-09&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" />
