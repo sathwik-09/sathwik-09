@@ -17,7 +17,7 @@
 ## 🚀 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/enapothula sathvik" target="_blank">
+  <a href="https://www.linkedin.com/in/enapothula-sathvik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0E86D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.codechef.com/users/sathwik_18" target="_blank">
