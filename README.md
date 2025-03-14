@@ -35,6 +35,10 @@
 
 ## 🛠️ Languages & Tools  
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/bef14fed80577c9297fe247a7740e66213a3ce956008ddd8a66e1c2de638ec1b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f664f443054424c4b51673841414141692f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966" width="100%" />
+</p>
+
 <table align="center">
 <tr>
     <td><strong>Languages</strong></td>
@@ -74,13 +78,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-09&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" width="400" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/sathwik-09/sathwik-09/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
+ 
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E86D4&height=100&section=footer"/>
