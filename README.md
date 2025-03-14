@@ -80,6 +80,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-09&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" width="400" />
 </p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E86D4&height=100&section=footer"/>
+</div>
  
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E86D4&height=100&section=footer"/>
