@@ -43,10 +43,10 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,js,java" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,tailwind" />
       </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,prisma" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=git,postman" />
